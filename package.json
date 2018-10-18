@@ -1,6 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
+  "homepage": "https://davidsng.github.io/react-robots-playground/", //added
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
@@ -9,6 +10,8 @@
     "tachyons": "^4.11.1"
   },
   "scripts": {
+    "predeploy": "npm run build", //added
+    "deploy": "gh-pages -d build", //added
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
