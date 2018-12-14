@@ -10,12 +10,13 @@ export class SearchBox extends Component {
           type="search"
           className="pa3 ba b--green bg-lightest-blue"
           placeholder="Search Robots"
-          onChange={ searchChange }
+          onChange={ searchChange }  
         />
       </div>
     );
   }
 }
+// we call searchChange function everytime there is a change to the input value of the searchbox
 
 
 // const SearchBox = ({searchfield, searchChange}) => {
