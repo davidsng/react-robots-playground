@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/davidsng/react-robots-playground/precache-manifest.24ebd4651512ff436f0814a51d359593.js"
+  "/react-robots-playground/precache-manifest.d421887a8f3840abd47ba3735ed27885.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/davidsng/react-robots-playground/index.html", {
+workbox.routing.registerNavigationRoute("/react-robots-playground/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
