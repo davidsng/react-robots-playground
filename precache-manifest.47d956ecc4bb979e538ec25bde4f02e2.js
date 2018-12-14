@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/react-robots-playground/static/js/runtime~main.e23b5a3f.js"
   },
   {
-    "revision": "e6fa4fc4bae47e84b8e7",
-    "url": "/react-robots-playground/static/js/main.e6fa4fc4.chunk.js"
+    "revision": "061892b32292364506fd",
+    "url": "/react-robots-playground/static/js/main.061892b3.chunk.js"
   },
   {
     "revision": "e244af4bac3183f495b2",
     "url": "/react-robots-playground/static/js/1.e244af4b.chunk.js"
   },
   {
-    "revision": "e6fa4fc4bae47e84b8e7",
-    "url": "/react-robots-playground/static/css/main.56830611.chunk.css"
+    "revision": "061892b32292364506fd",
+    "url": "/react-robots-playground/static/css/main.260897cf.chunk.css"
   },
   {
     "revision": "e244af4bac3183f495b2",
     "url": "/react-robots-playground/static/css/1.e179dae8.chunk.css"
   },
   {
-    "revision": "7da8e0e3a37cf5928aaf238005e4d622",
+    "revision": "06ff37aa985567221c6ffa765a266c9b",
     "url": "/react-robots-playground/index.html"
   }
 ];
