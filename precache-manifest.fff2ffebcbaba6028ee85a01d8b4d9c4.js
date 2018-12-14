@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-robots-playground/static/css/1.e179dae8.chunk.css"
   },
   {
-    "revision": "06ff37aa985567221c6ffa765a266c9b",
+    "revision": "5955930eaf771ab4032ec5a034a681ac",
     "url": "/react-robots-playground/index.html"
   }
 ];
